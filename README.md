@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Yasmeen 👋🏼👩🏼‍💻
+I am a student at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 <!--
 **yasmeennatasha/yasmeennatasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
