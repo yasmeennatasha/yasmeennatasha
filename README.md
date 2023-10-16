@@ -1,5 +1,5 @@
 ### Hi, I'm Yasmeen 👋🏼👩🏼‍💻
-I am a 3rd year student at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am a student at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ### Connect with Me
 <p align="left">
