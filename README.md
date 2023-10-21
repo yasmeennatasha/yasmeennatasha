@@ -16,8 +16,8 @@ My journey into the world of technology began in high school, where I took my fi
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Certifications
-🏅 AWS Academy Graduate - AWS Academy Cloud Foundations
-🏅 Microsoft Certified: Azure Data Fundamentals
+- AWS Academy Graduate - AWS Academy Cloud Foundations
+- Microsoft Certified: Azure Data Fundamentals
 
 ### Connect with Me
 <p align="left">
