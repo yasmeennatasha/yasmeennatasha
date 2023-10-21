@@ -20,8 +20,6 @@ My journey into the world of technology began in high school, where I took my fi
 - Microsoft Certified: Azure Data Fundamentals
 
 ### Connect with Me
-<p align="left">
-    <a href="https://www.linkedin.com/in/yasmeen-natasha-hafiz-shahrel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-yasmeennatasha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasmeen-natasha-hafiz-shahrel/"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmeen-natasha-hafiz-shahrel) 
 
 
