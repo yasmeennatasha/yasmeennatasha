@@ -1,5 +1,5 @@
 ### Hi, I'm Yasmeen 👋🏼👩🏼‍💻
-I am a third-year student at [Universiti Teknologi Malaysia](https://www.utm.my), pursuing a degree in Bachelor of Computer Science with a specialization in Data Engineering.
+I am a student at [Universiti Teknologi Malaysia](https://www.utm.my), pursuing a degree in Bachelor of Computer Science with a specialization in Data Engineering.
 My journey into the world of technology began in high school, where I took my first steps in a Computer Science class, and from that moment, I was captivated by the transformative power of these fields. Since then, my passion for this field has grown exponentially, and I aspire to become a Data Scientist, using data-driven insights to bring positive change to the world.
 
 ### My Projects
